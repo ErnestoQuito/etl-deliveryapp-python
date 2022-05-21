@@ -1,0 +1,11 @@
+
+# Carpetas
+__pycache__/
+
+# archivos
+*.pyc
+
+
+venv_alegra/
+
+*.xlsx
